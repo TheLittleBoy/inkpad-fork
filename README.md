@@ -1,3 +1,12 @@
+Fork from [Inkpad](https://github.com/sprang/Inkpad)
+======
+
+Screenshots
+======
+
+![](https://github.com/TheLittleBoy/inkpad-fork/blob/master/Screenshots/Gradient.png)
+![](https://github.com/TheLittleBoy/inkpad-fork/blob/master/Screenshots/Layers.png)
+
 Inkpad
 ======
 
